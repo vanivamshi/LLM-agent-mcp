@@ -1,0 +1,4 @@
+Incident Log
+============
+[2025-01-15] Server outage resolved
+[2025-01-14] Database connection timeout
